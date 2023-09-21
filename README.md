@@ -1,4 +1,4 @@
-# Título do projeto
+# Projeto Criptomoeda em React/Typescript
 
 Um parágrafo da descrição do projeto vai aqui
 
